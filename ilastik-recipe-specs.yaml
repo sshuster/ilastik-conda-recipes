@@ -265,7 +265,7 @@ recipe-specs:
         WITH_CPLEX: 0
         WITH_GUROBI: 1
         GUROBI_ROOT_DIR: /gurobi903/win64
-        GUROBI_LIB_WIN: /gurobi903/win64/lib/gurobi93.lib
+        GUROBI_LIB_WIN: /gurobi903/win64/lib/gurobi90.lib
 
     - name: multi-hypotheses-tracking-with-cplex
       build-on:
